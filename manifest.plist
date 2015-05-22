@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://${YOUR_DOMAIN_DOTCOM}/${PATH_TO_BETA_IF_ANY}/${APPLICATION_NAME}.ipa</string>
+					<string>Rinko.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>${BUNDLE_IDENTIFIER}</string>
+				<string>fr.rinko.Rinko</string>
 				<key>bundle-version</key>
-				<string>${APPLICATION_VERSION}</string>
+				<string>0.9.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>${DISPLAY_NAME}</string>
+				<string>Rinko</string>
 			</dict>
 		</dict>
 	</array>
