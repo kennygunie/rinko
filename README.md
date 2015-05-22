@@ -1,2 +1,1 @@
 # rinko
-iPhone App
